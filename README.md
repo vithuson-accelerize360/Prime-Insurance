@@ -1,4 +1,4 @@
-# test-1
+# prime-insurance
 
 a [Sails v1](https://sailsjs.com) application
 
